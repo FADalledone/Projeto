@@ -1,0 +1,13 @@
+.DS_Store
+csvol/node_modules/
+csvol/vendor/
+csvol/public.old/
+csvoliscritti/node_modules/
+csvoliscritti/vendor/
+csvoliscritti/public.old
+csvol/.env
+csvoliscritti/.env
+csvoliscritti/composer.lock
+csvoliscritti/package-lock.json
+csvol/composer.lock
+csvol/package-lock.json
